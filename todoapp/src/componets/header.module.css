@@ -1,0 +1,9 @@
+.header{
+    background-color:aqua;
+    text-align: center;
+    font-weight: bold;
+    height:40px;
+    padding: 10px;
+    font-size: 2em;
+    box-shadow: o 4px 6px rgba(0,0,0,0.1);
+}
